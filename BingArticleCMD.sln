@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingArticleCMD", "BingArticleCMD\BingArticleCMD.csproj", "{251DD207-1A9D-4067-910F-BBF4C73D28DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251DD207-1A9D-4067-910F-BBF4C73D28DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251DD207-1A9D-4067-910F-BBF4C73D28DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251DD207-1A9D-4067-910F-BBF4C73D28DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251DD207-1A9D-4067-910F-BBF4C73D28DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4268E6E-7E39-403B-B3B6-6D4D94E7EFED}
+	EndGlobalSection
+EndGlobal
