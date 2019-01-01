@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
+using System.IO;
+
 
 namespace BingArticleCMD
 {
@@ -10,6 +9,16 @@ namespace BingArticleCMD
     {
         static void Main(string[] args)
         {
+            string path = @"..\..\shipin.json";
+
+
+
+            string readText = File.ReadAllText(path);
+
+            Console.WriteLine(readText);
+            Console.ReadKey();
+
+
         }
     }
 }
